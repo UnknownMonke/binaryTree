@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: binaryTree
+Version: 0.1.0
+Summary: Simple library to generate and draw binary trees
+Author: UnknownMonke
+Project-URL: Homepage, https://github.com/sampleUrl
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Binary Tree Python library
+
+Custom Python 3 library to create and draw binary trees.
+
+Created with [virtualenv](https://docs.python.org/3/library/venv.html).
+
+Published with [Twine](https://pypi.org/project/twine/).
+
+# Build Process
+
+The overall process for building a package is:
+
+    - Create an isolated build environment.
+    - Populate the build environment with build dependencies.
+    - Generate the package’s metadata, if necessary and possible.
+    - Generate a wheel for the package.
+
+The wheel can then be used to perform an installation, if necessary.
+
